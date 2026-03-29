@@ -1,4 +1,3 @@
-# Team 15 405 Data Management
 # Measuring Success of F&B Business
 
 ---
